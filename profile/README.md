@@ -1,4 +1,7 @@
-## Faultwise
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="faultwise-logo-dark.png">
+  <img src="faultwise-logo.png" alt="Faultwise" width="320">
+</picture>
 
 **When a test fails, is the app wrong, or the test?**
 
